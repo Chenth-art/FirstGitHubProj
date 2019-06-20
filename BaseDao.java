@@ -65,7 +65,7 @@ public class BaseDao {
         return 0;
     }
     //查询
-    public void show(){
-        System.out.print("hello!");
-    }
+	public void print(){
+		System.out.print("hello,world");
+	}
 }
